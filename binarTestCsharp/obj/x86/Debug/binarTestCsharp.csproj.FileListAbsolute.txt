@@ -1,0 +1,5 @@
+c:\users\vokinsark\documents\visual studio 2010\Projects\binarTestCsharp\binarTestCsharp\bin\Debug\binarTestCsharp.exe
+c:\users\vokinsark\documents\visual studio 2010\Projects\binarTestCsharp\binarTestCsharp\bin\Debug\binarTestCsharp.pdb
+c:\users\vokinsark\documents\visual studio 2010\Projects\binarTestCsharp\binarTestCsharp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vokinsark\documents\visual studio 2010\Projects\binarTestCsharp\binarTestCsharp\obj\x86\Debug\binarTestCsharp.exe
+c:\users\vokinsark\documents\visual studio 2010\Projects\binarTestCsharp\binarTestCsharp\obj\x86\Debug\binarTestCsharp.pdb
